@@ -1,1 +1,1 @@
-This contains demo code of exercises/snippets/projects of the book
+This contains examples/snippets/projects of the book Python Machine Learning by Sebastian Raschka
